@@ -39,3 +39,8 @@ Returns an `Array`/`String[]` of the status of each letter of the guessed word c
   
 Example return:
 `["absent", "present", "correct", "present", "absent"]`
+
+--------------------------
+
+## Wordle Game (ReactJS + Firebase)
+- [[Github] https://github.com/dgvai/wordle-with-friends](https://github.com/dgvai/wordle-with-friends)
