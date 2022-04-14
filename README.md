@@ -28,7 +28,12 @@ Wordle(guess, solution)
 ```cs
 // Import namespace or Include to your class
 
-Wordle(guess, solution)
+Wordle.Wordle(guess, solution)
+```
+
+### Java
+```java
+wordle.Wordle(guess,solution)
 ```
 ## Return Type
 Returns an `Array`/`String[]` of the status of each letter of the guessed word comparing to the solution word.
