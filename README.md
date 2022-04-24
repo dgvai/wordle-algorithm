@@ -33,8 +33,16 @@ Wordle.Wordle(guess, solution)
 
 ### Java
 ```java
+// Import or Include to your class
 wordle.Wordle(guess,solution)
 ```
+
+### Go
+```go
+// Import or Include to your class
+Wordle("agshs","sdsds")
+```
+
 ## Return Type
 Returns an `Array`/`String[]` of the status of each letter of the guessed word comparing to the solution word.
 - `"correct"` : The letter is in correct position
